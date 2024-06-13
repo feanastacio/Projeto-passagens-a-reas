@@ -61,7 +61,7 @@ void listagemDePassagens()
      cout << "Passageiros" << "  "  << passageiros [i] << endl;
      cout << "Origens" << "  "  << origens [i]  << endl;
      cout << "Destinos" << "  "  << destinos [i]  <<endl;
-     cout << "Datas" << "  "  << datas [i] <<endl;
+     cout << "Datas" << "  "  << datas [i] <<endl << endl;
     }
     
 }
